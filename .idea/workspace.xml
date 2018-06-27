@@ -5,7 +5,34 @@
     <bookmark url="file://$PROJECT_DIR$/src/com/obss/parameter_passing/Worker.java" line="34" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6c040dc0-b62a-4867-ac2f-8f1db30d7c24" name="Default" comment="" />
+    <list default="true" id="6c040dc0-b62a-4867-ac2f-8f1db30d7c24" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/obss/abstraction/AbstractCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/obss/abstraction/AbstractClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/obss/abstraction/ConcreteCarBasedOnInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/obss/abstraction/ConcreteClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/obss/abstraction/ImplementedClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/obss/abstraction/MiddleAbstractClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/obss/arayuz/BmwCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/obss/arayuz/GermanCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/obss/arayuz/ICar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/obss/arayuz/ILuxury.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/obss/arayuz/InterfaceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/obss/arayuz/TurkishCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/obss/exception/ExceptionThrower.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/obss/exception/ExceptionThrowerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/obss/exception/ObssException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/obss/multiple_interfaces/IIntership.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/obss/multiple_interfaces/IStudent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/obss/multiple_interfaces/IWork.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/obss/multiple_interfaces/UniversityStudent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/obss/string_operations/StringTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaSummerSchool/com/obss/araba/Araba.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaSummerSchool/com/obss/araba/Araba.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaSummerSchool/com/obss/bus_reservation/Bus.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaSummerSchool/com/obss/bus_reservation/Bus.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/obss/araba/Araba.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/obss/araba/Araba.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/obss/araba/Araba.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/obss/araba/Araba.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,108 +43,94 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Passenger.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/obss/bus_reservation/Passenger.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="497">
-              <caret line="39" column="35" selection-start-line="39" selection-start-column="35" selection-end-line="39" selection-end-column="35" />
-              <folding>
-                <element signature="e#152#153#0" expanded="true" />
-                <element signature="e#179#180#0" expanded="true" />
-                <element signature="e#219#220#0" expanded="true" />
-                <element signature="e#251#252#0" expanded="true" />
-                <element signature="e#294#295#0" expanded="true" />
-                <element signature="e#328#329#0" expanded="true" />
-                <element signature="e#387#388#0" expanded="true" />
-                <element signature="e#433#434#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Bus.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/obss/bus_reservation/Bus.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="42" column="23" selection-start-line="42" selection-start-column="23" selection-end-line="42" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BusTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/obss/bus_reservation/BusTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-125">
-              <caret line="8" column="50" lean-forward="true" selection-start-line="8" selection-start-column="50" selection-end-line="8" selection-end-column="50" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PassengerTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/obss/bus_reservation/PassengerTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="34" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LionTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/obss/polymorphism/LionTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="GovernmentEmployee.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/obss/inheritance/GovernmentEmployee.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="257">
-              <caret line="44" selection-start-line="44" selection-end-line="44" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DownCastingProblem.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/obss/inheritance/DownCastingProblem.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="66" selection-start-line="16" selection-start-column="66" selection-end-line="16" selection-end-column="66" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="InstanceOfTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/obss/inheritance/InstanceOfTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="54" selection-start-line="14" selection-start-column="54" selection-end-line="14" selection-end-column="54" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Object.java" pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/Object.java">
+      <file leaf-file-name="StringTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/obss/string_operations/StringTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="73">
-              <caret line="156" column="19" selection-start-line="156" selection-start-column="19" selection-end-line="156" selection-end-column="19" />
+              <caret line="62" column="42" selection-start-line="62" selection-start-column="37" selection-end-line="62" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StringBuffer.java" pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/StringBuffer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="676" column="28" selection-start-line="676" selection-start-column="28" selection-end-line="676" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ObssException.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/obss/exception/ObssException.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" selection-start-line="5" selection-end-line="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RuntimeException.java" pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/RuntimeException.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="80">
+              <caret line="42" column="42" selection-start-line="42" selection-start-column="42" selection-end-line="42" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ExceptionThrower.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/obss/exception/ExceptionThrower.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="25" column="22" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
               <folding>
-                <element signature="e#5877#5878#0" expanded="true" />
-                <element signature="e#5913#5914#0" expanded="true" />
-                <element signature="e#10225#10226#0" expanded="true" />
-                <element signature="e#10308#10309#0" expanded="true" />
+                <element signature="e#659#660#0" expanded="true" />
+                <element signature="e#690#691#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CalculationUtils.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/obss/inheritance/CalculationUtils.java">
+      <file leaf-file-name="IllegalArgumentException.java" pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/IllegalArgumentException.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+            <state relative-caret-position="80">
+              <caret line="70" column="11" selection-start-line="70" selection-start-column="11" selection-end-line="70" selection-end-column="11" />
+              <folding>
+                <element signature="e#1611#1612#0" expanded="true" />
+                <element signature="e#1648#1649#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ExceptionThrowerTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/obss/exception/ExceptionThrowerTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="213">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Exception.java" pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/Exception.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="73">
+              <caret line="44" column="13" selection-start-line="44" selection-start-column="13" selection-end-line="44" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Calisma1.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Calisma1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="146">
+              <caret line="32" column="30" selection-start-line="32" selection-start-column="8" selection-end-line="32" selection-end-column="30" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -127,13 +140,13 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>equals</find>
       <find>scan()</find>
       <find>scan</find>
       <find>Government</find>
@@ -141,6 +154,11 @@
       <find>private class</find>
       <find>getName</find>
       <find>Circle</find>
+      <find>interface</find>
+      <find>thread safe</find>
+      <find>equals</find>
+      <find>new String</find>
+      <find>ex.print</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -150,32 +168,16 @@
       <dir>$PROJECT_DIR$/src/com/obss/array</dir>
       <dir>$PROJECT_DIR$/src/com/obss/casting</dir>
       <dir>$PROJECT_DIR$/src/com/obss/polymorphism</dir>
+      <dir>$PROJECT_DIR$/src/com/obss/arayuz</dir>
+      <dir>$PROJECT_DIR$/src/com/obss/exception</dir>
     </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/obss/Araba.java" />
-        <option value="$PROJECT_DIR$/src/com/obss/araba/Araba.java" />
-        <option value="$PROJECT_DIR$/src/com/obss/loops/WhileLoopTest.java" />
-        <option value="$PROJECT_DIR$/src/com/obss/loops/ForLoopTest.java" />
-        <option value="$PROJECT_DIR$/src/com/obss/inputreader/ScannerTest.java" />
-        <option value="$PROJECT_DIR$/src/Pojo.java" />
-        <option value="$PROJECT_DIR$/src/com/obss/inputreader/InputReaderTest.java" />
-        <option value="$PROJECT_DIR$/src/com/obss/loops/SwitchTest.java" />
-        <option value="$PROJECT_DIR$/src/com/obss/loops/BreakTest.java" />
-        <option value="$PROJECT_DIR$/src/com/obss/array/ArrayLoop.java" />
-        <option value="$PROJECT_DIR$/src/com/obss/array/ReverseArray.java" />
-        <option value="$PROJECT_DIR$/src/com/obss/array/MultidimensionalArray.java" />
-        <option value="$PROJECT_DIR$/src/com/obss/casting/TypeCasting.java" />
-        <option value="$PROJECT_DIR$/src/com/obss/loops/CarDifferentPackageTest.java" />
-        <option value="$PROJECT_DIR$/src/com/obss/oop/CarTest.java" />
-        <option value="$PROJECT_DIR$/src/com/obss/method/MethodParameter.java" />
-        <option value="$PROJECT_DIR$/src/com/obss/staticusage/Student.java" />
-        <option value="$PROJECT_DIR$/src/com/obss/staticusage/StudentNotStatic.java" />
-        <option value="$PROJECT_DIR$/src/com/obss/constructor/StudentTest.java" />
-        <option value="$PROJECT_DIR$/src/com/obss/oop/Car.java" />
-        <option value="$PROJECT_DIR$/src/com/obss/staticusage/StaticTest.java" />
         <option value="$PROJECT_DIR$/src/com/obss/checker/RandomChecker.java" />
         <option value="$PROJECT_DIR$/src/Calisma1.java" />
         <option value="$PROJECT_DIR$/src/com/obss/constants/JavaConstants.java" />
@@ -191,7 +193,6 @@
         <option value="$PROJECT_DIR$/src/com/obss/inheritance/CompanyEmployee.java" />
         <option value="$PROJECT_DIR$/src/com/obss/inheritance/Employee.java" />
         <option value="$PROJECT_DIR$/src/com/obss/inheritance/Test.java" />
-        <option value="$PROJECT_DIR$/src/com/obss/inheritance/CalculationUtils.java" />
         <option value="$PROJECT_DIR$/src/com/obss/array/ArrayTest.java" />
         <option value="$PROJECT_DIR$/src/com/obss/array/ArrayLengthTest.java" />
         <option value="$PROJECT_DIR$/src/com/obss/bus_reservation/Destination.java" />
@@ -206,6 +207,28 @@
         <option value="$PROJECT_DIR$/src/com/obss/bus_reservation/PassengerTest.java" />
         <option value="$PROJECT_DIR$/src/com/obss/bus_reservation/Passenger.java" />
         <option value="$PROJECT_DIR$/src/com/obss/bus_reservation/Bus.java" />
+        <option value="$PROJECT_DIR$/src/com/obss/arayuz/BmwCar.java" />
+        <option value="$PROJECT_DIR$/src/com/obss/arayuz/GermanCar.java" />
+        <option value="$PROJECT_DIR$/src/com/obss/abstraction/ConcreteClass.java" />
+        <option value="$PROJECT_DIR$/src/com/obss/abstraction/ConcreteCarBasedOnInterface.java" />
+        <option value="$PROJECT_DIR$/src/com/obss/inheritance/CalculationUtils.java" />
+        <option value="$PROJECT_DIR$/src/com/obss/abstraction/AbstractCar.java" />
+        <option value="$PROJECT_DIR$/src/com/obss/abstraction/ImplementedClass.java" />
+        <option value="$PROJECT_DIR$/src/com/obss/abstraction/AbstractClass.java" />
+        <option value="$PROJECT_DIR$/src/com/obss/abstraction/MiddleAbstractClass.java" />
+        <option value="$PROJECT_DIR$/src/com/obss/arayuz/ICar.java" />
+        <option value="$PROJECT_DIR$/src/com/obss/arayuz/TurkishCar.java" />
+        <option value="$PROJECT_DIR$/src/com/obss/arayuz/InterfaceTest.java" />
+        <option value="$PROJECT_DIR$/src/com/obss/arayuz/ILuxury.java" />
+        <option value="$PROJECT_DIR$/src/com/obss/multiple_interfaces/IIntership.java" />
+        <option value="$PROJECT_DIR$/src/com/obss/multiple_interfaces/IWork.java" />
+        <option value="$PROJECT_DIR$/src/com/obss/multiple_interfaces/IStudent.java" />
+        <option value="$PROJECT_DIR$/src/com/obss/multiple_interfaces/UniversityStudent.java" />
+        <option value="$PROJECT_DIR$/src/com/obss/araba/Araba.java" />
+        <option value="$PROJECT_DIR$/src/com/obss/string_operations/StringTest.java" />
+        <option value="$PROJECT_DIR$/src/com/obss/exception/ObssException.java" />
+        <option value="$PROJECT_DIR$/src/com/obss/exception/ExceptionThrower.java" />
+        <option value="$PROJECT_DIR$/src/com/obss/exception/ExceptionThrowerTest.java" />
       </list>
     </option>
   </component>
@@ -222,6 +245,9 @@
     <option name="y" value="23" />
     <option name="width" value="800" />
     <option name="height" value="536" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -254,7 +280,28 @@
               <item name="JavaSummerSchool" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="obss" type="462c0819:PsiDirectoryNode" />
+              <item name="array" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaSummerSchool" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaSummerSchool" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="obss" type="462c0819:PsiDirectoryNode" />
               <item name="bus_reservation" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaSummerSchool" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaSummerSchool" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="obss" type="462c0819:PsiDirectoryNode" />
+              <item name="casting" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaSummerSchool" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaSummerSchool" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="obss" type="462c0819:PsiDirectoryNode" />
+              <item name="exception" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JavaSummerSchool" type="b2602c69:ProjectViewProjectNode" />
@@ -268,7 +315,56 @@
               <item name="JavaSummerSchool" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="obss" type="462c0819:PsiDirectoryNode" />
+              <item name="inputreader" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaSummerSchool" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaSummerSchool" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="obss" type="462c0819:PsiDirectoryNode" />
+              <item name="loops" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaSummerSchool" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaSummerSchool" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="obss" type="462c0819:PsiDirectoryNode" />
+              <item name="method" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaSummerSchool" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaSummerSchool" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="obss" type="462c0819:PsiDirectoryNode" />
+              <item name="oop" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaSummerSchool" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaSummerSchool" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="obss" type="462c0819:PsiDirectoryNode" />
+              <item name="parameter_passing" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaSummerSchool" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaSummerSchool" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="obss" type="462c0819:PsiDirectoryNode" />
+              <item name="pojo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaSummerSchool" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaSummerSchool" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="obss" type="462c0819:PsiDirectoryNode" />
               <item name="polymorphism" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaSummerSchool" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaSummerSchool" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="obss" type="462c0819:PsiDirectoryNode" />
+              <item name="string_operations" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JavaSummerSchool" type="b2602c69:ProjectViewProjectNode" />
@@ -281,11 +377,12 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="SearchEverywhereHistoryKey" value="Passenger&#9;FILE&#9;file:///Users/seref.acet/IdeaProjects/JavaSummerSchool/src/com/obss/bus_reservation/Passenger.java&#10;Government&#9;FILE&#9;file:///Users/seref.acet/IdeaProjects/JavaSummerSchool/src/com/obss/inheritance/GovernmentEmployee.java&#10;expose&#9;PSI&#9;JAVA://com.obss.inheritance.GovernmentEmployee#exposeToGovernment&#10;CarTest&#9;FILE&#9;file:///Users/seref.acet/IdeaProjects/JavaSummerSchool/src/com/obss/oop/CarTest.java&#10;scan&#9;PSI&#9;JAVA://com.obss.inputreader.InputReaderTest#scan&#10;getSayi&#9;PSI&#9;JAVA://com.obss.pojo.Pojo#getSayi" />
+    <property name="SearchEverywhereHistoryKey" value="StringTest.java&#9;FILE&#9;file:///Users/seref.acet/IdeaProjects/JavaSummerSchool/src/com/obss/string_operations/StringTest.java&#10;StringTest&#9;RUN_CONFIGURATION&#9;StringTest&#10;Passenger&#9;FILE&#9;file:///Users/seref.acet/IdeaProjects/JavaSummerSchool/src/com/obss/bus_reservation/Passenger.java&#10;Government&#9;FILE&#9;file:///Users/seref.acet/IdeaProjects/JavaSummerSchool/src/com/obss/inheritance/GovernmentEmployee.java&#10;expose&#9;PSI&#9;JAVA://com.obss.inheritance.GovernmentEmployee#exposeToGovernment&#10;CarTest&#9;FILE&#9;file:///Users/seref.acet/IdeaProjects/JavaSummerSchool/src/com/obss/oop/CarTest.java&#10;scan&#9;PSI&#9;JAVA://com.obss.inputreader.InputReaderTest#scan&#10;getSayi&#9;PSI&#9;JAVA://com.obss.pojo.Pojo#getSayi" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RunDashboard">
@@ -300,7 +397,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.PassengerTest">
+  <component name="RunManager" selected="Application.ExceptionThrowerTest">
     <configuration name="BusTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.obss.bus_reservation.BusTest" />
       <module name="JavaSummerSchool" />
@@ -312,35 +409,13 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="GovernmentEmployee" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.obss.inheritance.GovernmentEmployee" />
+    <configuration name="ExceptionThrowerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.obss.exception.ExceptionThrowerTest" />
       <module name="JavaSummerSchool" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.obss.inheritance.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="InstanceOfTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.obss.inheritance.InstanceOfTest" />
-      <module name="JavaSummerSchool" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.obss.inheritance.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="LionTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.obss.polymorphism.LionTest" />
-      <module name="JavaSummerSchool" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.obss.polymorphism.*" />
+          <option name="PATTERN" value="com.obss.exception.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -352,6 +427,28 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.obss.bus_reservation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="StringTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.obss.string_operations.StringTest" />
+      <module name="JavaSummerSchool" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.obss.string_operations.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="UniversityStudent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.obss.multiple_interfaces.UniversityStudent" />
+      <module name="JavaSummerSchool" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.obss.multiple_interfaces.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -398,19 +495,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.GovernmentEmployee" />
       <item itemvalue="Application.BusTest" />
-      <item itemvalue="Application.LionTest" />
-      <item itemvalue="Application.InstanceOfTest" />
       <item itemvalue="Application.PassengerTest" />
+      <item itemvalue="Application.UniversityStudent" />
+      <item itemvalue="Application.StringTest" />
+      <item itemvalue="Application.ExceptionThrowerTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ExceptionThrowerTest" />
+        <item itemvalue="Application.StringTest" />
+        <item itemvalue="Application.UniversityStudent" />
         <item itemvalue="Application.PassengerTest" />
         <item itemvalue="Application.BusTest" />
-        <item itemvalue="Application.InstanceOfTest" />
-        <item itemvalue="Application.GovernmentEmployee" />
-        <item itemvalue="Application.LionTest" />
       </list>
     </recent_temporary>
   </component>
@@ -429,12 +526,12 @@
       <workItem from="1529955834698" duration="203000" />
       <workItem from="1529993542494" duration="8467000" />
       <workItem from="1530012447683" duration="7235000" />
-      <workItem from="1530080674661" duration="7190000" />
+      <workItem from="1530080674661" duration="16992000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33442000" />
+    <option name="totallyTimeSpent" value="43244000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -459,15 +556,15 @@
       <window_info anchor="right" id="Maven Projects" order="4" />
       <window_info anchor="bottom" id="Database Changes" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="7" weight="0.39179954" />
-      <window_info anchor="bottom" id="Version Control" order="2" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="2" />
       <window_info anchor="bottom" id="Terminal" order="3" weight="0.32902467" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Designer" order="1" />
-      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.49812734" weight="0.31926122" />
+      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.49433962" weight="0.31926122" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="bottom" id="Find" order="6" weight="0.3266745" />
       <window_info id="Learn" order="0" weight="0.3298153" />
-      <window_info id="Structure" order="7" sideWeight="0.50187266" side_tool="true" weight="0.31134564" />
+      <window_info id="Structure" order="7" sideWeight="0.50566036" side_tool="true" weight="0.31926122" />
       <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="2" />
@@ -483,10 +580,10 @@
       <window_info anchor="right" id="Palette" order="5" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
       <window_info anchor="right" id="Capture Analysis" order="0" />
-      <window_info anchor="bottom" id="Run" order="7" visible="true" weight="0.39179954" />
+      <window_info anchor="bottom" id="Run" order="7" weight="0.39179954" />
       <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="5" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" sideWeight="0.49812734" visible="true" weight="0.31926122" />
+      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.49433962" visible="true" weight="0.31926122" />
       <window_info id="Learn" order="0" weight="0.3298153" />
       <window_info anchor="right" id="Theme Preview" order="2" />
       <window_info anchor="bottom" id="TODO" order="11" weight="0.32917705" />
@@ -496,14 +593,14 @@
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="bottom" id="Find" order="6" weight="0.3266745" />
-      <window_info id="Structure" order="7" sideWeight="0.50187266" side_tool="true" weight="0.31134564" />
+      <window_info id="Structure" order="7" sideWeight="0.50566036" side_tool="true" visible="true" weight="0.31926122" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="Palette&#9;" order="1" />
       <window_info anchor="bottom" id="Terminal" order="3" weight="0.32902467" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
       <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
-      <window_info anchor="bottom" id="Version Control" order="2" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Debug" order="8" weight="0.39635536" />
+      <window_info anchor="bottom" id="Version Control" order="2" />
+      <window_info active="true" anchor="bottom" id="Debug" order="8" visible="true" weight="0.39635536" />
       <window_info id="Capture Tool" order="3" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Messages" order="4" weight="0.3257403" />
@@ -538,288 +635,26 @@
           <properties />
           <option name="timeStamp" value="20" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/obss/exception/ExceptionThrowerTest.java</url>
+          <line>6</line>
+          <properties />
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/obss/exception/ExceptionThrowerTest.java</url>
+          <line>20</line>
+          <properties />
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
       </breakpoints>
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
-      <option name="time" value="22" />
+      <option name="time" value="26" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/obss/pojo/Pojo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="11" column="15" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/obss/loops/WhileLoopTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="555">
-          <caret line="37" column="5" selection-start-line="37" selection-start-column="5" selection-end-line="37" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/obss/araba/Araba.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="15" column="24" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.jdk/Contents/Home/lib/src.zip!/java.base/java/util/Scanner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7875">
-          <caret line="564" column="11" selection-start-line="564" selection-start-column="11" selection-end-line="564" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/obss/inputreader/InputReaderTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="34" column="47" selection-start-line="34" selection-start-column="47" selection-end-line="34" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/obss/loops/ForLoopTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/obss/loops/SwitchTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="35" column="22" lean-forward="true" selection-start-line="35" selection-start-column="22" selection-end-line="35" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/obss/loops/BreakTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/obss/array/ReverseArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/obss/casting/TypeCasting.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="32" selection-start-line="26" selection-start-column="32" selection-end-line="26" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/obss/loops/CarDifferentPackageTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="7" column="28" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.jdk/Contents/Home/lib/src.zip!/java.base/java/io/PrintStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="130">
-          <caret line="879" column="30" selection-start-line="879" selection-start-column="24" selection-end-line="879" selection-end-column="30" />
-          <folding>
-            <element signature="e#27472#27473#0" expanded="true" />
-            <element signature="e#27497#27498#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/obss/method/MethodParameter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/obss/staticusage/StudentNotStatic.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-157">
-          <caret line="13" column="12" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/obss/staticusage/Student.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="45" selection-start-line="5" selection-start-column="45" selection-end-line="5" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/obss/oop/Car.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-455">
-          <caret line="2" column="6" selection-start-line="2" selection-end-line="2" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/obss/constructor/StudentTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="35" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/obss/staticusage/StaticTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Calisma1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="34" column="31" selection-start-line="34" selection-start-column="31" selection-end-line="34" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/obss/oop/CarTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="27" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="27" />
-          <folding>
-            <element signature="e#90#91#0" expanded="true" />
-            <element signature="e#125#126#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/obss/array/ArrayLoop.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="55" selection-start-line="12" selection-start-column="55" selection-end-line="12" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/Math.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1455">
-          <caret line="124" column="10" selection-start-line="124" selection-start-column="4" selection-end-line="124" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/obss/parameter_passing/WorkerTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/obss/parameter_passing/Worker.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/obss/enumeration/PrivateConstructor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="11" column="46" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="46" />
-          <folding>
-            <element signature="e#232#233#0" expanded="true" />
-            <element signature="e#261#262#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/obss/enumeration/PrivateConstructorTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="39" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/obss/constants/JavaConstants.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="690">
-          <caret line="55" column="1" selection-start-line="55" selection-start-column="1" selection-end-line="55" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/obss/checker/RandomChecker.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="4" column="23" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/obss/enumeration/EnumTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="70">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/obss/enumeration/CompositionExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="15" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="15" />
-          <folding>
-            <element signature="e#128#129#0" expanded="true" />
-            <element signature="e#160#161#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/obss/enumeration/Day.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="13">
-          <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
-          <folding>
-            <element signature="e#315#316#0" expanded="true" />
-            <element signature="e#347#348#0" expanded="true" />
-            <element signature="e#500#501#0" expanded="true" />
-            <element signature="e#527#528#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/obss/inheritance/CompanyEmployee.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="18" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="18" />
-          <folding>
-            <element signature="e#120#121#0" expanded="true" />
-            <element signature="e#147#148#0" expanded="true" />
-            <element signature="e#125#126#0" expanded="true" />
-            <element signature="e#144#145#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/obss/inheritance/Employee.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding>
-            <element signature="e#126#127#0" expanded="true" />
-            <element signature="e#162#163#0" expanded="true" />
-            <element signature="e#207#208#0" expanded="true" />
-            <element signature="e#245#246#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/obss/inheritance/Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -905,13 +740,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/obss/inheritance/CalculationUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/obss/inheritance/GovernmentEmployee.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="257">
@@ -930,19 +758,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="14" column="54" selection-start-line="14" selection-start-column="54" selection-end-line="14" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/Object.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="73">
-          <caret line="156" column="19" selection-start-line="156" selection-start-column="19" selection-end-line="156" selection-end-column="19" />
-          <folding>
-            <element signature="e#5877#5878#0" expanded="true" />
-            <element signature="e#5913#5914#0" expanded="true" />
-            <element signature="e#10225#10226#0" expanded="true" />
-            <element signature="e#10308#10309#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -979,8 +794,290 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/obss/bus_reservation/Bus.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="42" column="23" selection-start-line="42" selection-start-column="23" selection-end-line="42" selection-end-column="23" />
+        <state relative-caret-position="73">
+          <caret line="42" column="10" lean-forward="true" selection-start-line="42" selection-start-column="10" selection-end-line="42" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/obss/abstraction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/obss/arayuz/GermanCar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/obss/abstraction/ConcreteClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="5" lean-forward="true" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+          <folding>
+            <element signature="e#119#120#0" expanded="true" />
+            <element signature="e#148#149#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/obss/abstraction/ConcreteCarBasedOnInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/obss/arayuz/BmwCar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="2" column="44" selection-start-line="2" selection-start-column="37" selection-end-line="2" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/obss/inheritance/CalculationUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/obss/abstraction/ImplementedClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/obss/abstraction/MiddleAbstractClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="12" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/obss/abstraction/AbstractClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="34" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/obss/abstraction/AbstractCar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="7" column="30" lean-forward="true" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
+          <folding>
+            <element signature="e#138#139#0" expanded="true" />
+            <element signature="e#198#199#0" expanded="true" />
+            <element signature="e#267#268#0" expanded="true" />
+            <element signature="e#318#319#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/obss/arayuz/ICar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="39" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="39" />
+          <folding>
+            <element signature="e#139#140#0" expanded="true" />
+            <element signature="e#177#178#0" expanded="true" />
+            <element signature="e#251#252#0" expanded="true" />
+            <element signature="e#323#324#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/obss/arayuz/TurkishCar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding>
+            <element signature="e#370#371#0" expanded="true" />
+            <element signature="e#388#389#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/obss/arayuz/InterfaceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="27" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/obss/arayuz/ILuxury.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="24" lean-forward="true" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/obss/multiple_interfaces/IIntership.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/obss/multiple_interfaces/IStudent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="3" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/obss/multiple_interfaces/IWork.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="10" lean-forward="true" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="73">
+          <caret line="40" column="46" selection-start-line="40" selection-start-column="31" selection-end-line="40" selection-end-column="46" />
+          <folding>
+            <element signature="e#5877#5878#0" expanded="true" />
+            <element signature="e#5913#5914#0" expanded="true" />
+            <element signature="e#10225#10226#0" expanded="true" />
+            <element signature="e#10308#10309#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/obss/multiple_interfaces/UniversityStudent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/StringBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="76" column="19" selection-start-line="76" selection-start-column="19" selection-end-line="76" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="1145" column="29" selection-start-line="1145" selection-start-column="29" selection-end-line="1145" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Calisma1.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-42">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/obss/araba/Araba.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="118">
+          <caret line="41" column="33" lean-forward="true" selection-start-line="41" selection-start-column="33" selection-end-line="41" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/obss/araba/Araba.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="44" column="29" lean-forward="true" selection-start-line="44" selection-start-column="29" selection-end-line="44" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Calisma1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146">
+          <caret line="32" column="30" selection-start-line="32" selection-start-column="8" selection-end-line="32" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/obss/string_operations/StringTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="73">
+          <caret line="62" column="42" selection-start-line="62" selection-start-column="37" selection-end-line="62" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/obss/exception.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/StringBuffer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="676" column="28" selection-start-line="676" selection-start-column="28" selection-end-line="676" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/Exception.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="73">
+          <caret line="44" column="13" selection-start-line="44" selection-start-column="13" selection-end-line="44" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/obss/exception/ObssException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" selection-start-line="5" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/IllegalArgumentException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="70" column="11" selection-start-line="70" selection-start-column="11" selection-end-line="70" selection-end-column="11" />
+          <folding>
+            <element signature="e#1611#1612#0" expanded="true" />
+            <element signature="e#1648#1649#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/RuntimeException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="42" column="42" selection-start-line="42" selection-start-column="42" selection-end-line="42" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/obss/exception/ExceptionThrower.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="22" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
+          <folding>
+            <element signature="e#659#660#0" expanded="true" />
+            <element signature="e#690#691#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/InterruptedException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="50" column="39" selection-start-line="50" selection-start-column="39" selection-end-line="50" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/obss/exception/ExceptionThrowerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>

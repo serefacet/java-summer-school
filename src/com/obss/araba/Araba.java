@@ -36,4 +36,20 @@ public class Araba implements Comparable<Araba>{
         return -1;
         }
     }
+
+    public static void main(String[] args) {
+
+        StringBuilder sb = new StringBuilder();
+        sb.append("obss");
+        sb.append("java");
+        System.out.println(sb.toString());
+
+
+        StringBuffer stringBuffer = new StringBuffer();
+        sb.append("obss");
+        sb.append("java");
+
+        System.out.println(stringBuffer.toString());
+
+    }
 }
