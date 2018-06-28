@@ -35,10 +35,11 @@ public class FileReaderTest {
 
         }
 
+
         try(FileWriter fw = new FileWriter("/tmp/fileWriterTest.txt")) {
             fw.write("This line is added by Java application!\n");
         }
-        
+
 
 
     }
