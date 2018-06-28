@@ -1,6 +1,6 @@
 package com.obss.araba;
 
-public class Araba implements Comparable<Araba>{
+public class Araba implements Comparable<Araba> {
 
     private int hiz;
     private String marka;
@@ -24,16 +24,12 @@ public class Araba implements Comparable<Araba>{
 
     @Override
     public int compareTo(Araba o) {
-        if (this.hiz == o.getHiz() && this.marka == o.getMarka())
-        {
+        if (this.hiz == o.getHiz() && this.marka == o.getMarka()) {
             return 0;
-        }
-        else if (this.hiz > o.getHiz())
-        {
+        } else if (this.hiz > o.getHiz()) {
             return 1;
-        }
-        else {
-        return -1;
+        } else {
+            return -1;
         }
     }
 
