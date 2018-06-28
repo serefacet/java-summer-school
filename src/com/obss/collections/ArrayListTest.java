@@ -83,12 +83,21 @@ public class ArrayListTest {
         list.add("mehmet");
 
         Object[] objects = list.toArray();
-String
+
         Arrays.sort(objects);
 
         System.out.println("Isim siralamasi: ");
         for(Object object : objects) {
             System.out.println(object);
         }
+
+        List<Object> objects1 = Arrays.asList(objects);
+
+        Integer[] intArray = new Integer[10];
+        intArray[0] = 1;
+
+        List<Integer> ints = Arrays.asList(intArray);
+
+
     }
 }
