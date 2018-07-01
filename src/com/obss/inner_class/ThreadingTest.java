@@ -7,8 +7,6 @@ import java.util.concurrent.Executors;
 public class ThreadingTest {
 
     public static void main(String[] args) {
-
-
         ExecutorService executorService = Executors.newCachedThreadPool();
 
         executorService.submit(new MyThread());
