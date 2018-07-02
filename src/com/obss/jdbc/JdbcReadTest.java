@@ -1,5 +1,6 @@
 package com.obss.jdbc;
 
+import java.io.OutputStream;
 import java.sql.*;
 import java.util.ArrayList;
 import java.util.List;
@@ -20,14 +21,15 @@ public class JdbcReadTest {
 
     public static List<Student> getStudentsFromDB(String name) {
         List<Student> studentList = new ArrayList<>();
+        Connection connection = null;
+        PreparedStatement ps = null;
+        ResultSet resultSet = null;
         try {
-            Connection connection =
+            connection =
                     DriverManager.getConnection("jdbc:mysql://localhost/obss", "root", "123456789");
-
-            PreparedStatement ps = connection.prepareStatement("SELECT * FROM STUDENT where name=?");
+            ps = connection.prepareStatement("SELECT * FROM STUDENT where name=?");
             ps.setString(1, name);
-            ResultSet resultSet = ps.executeQuery();
-
+            resultSet = ps.executeQuery();
             while (resultSet.next()) {
                 String firstName = resultSet.getString("name");
                 int id = resultSet.getInt("id");
@@ -40,13 +42,20 @@ public class JdbcReadTest {
 
         } catch (SQLException e) {
             e.printStackTrace();
+        } finally {
+            try {
+                ps.close();
+                resultSet.close();
+                connection.close();
+            } catch (SQLException e) {
+                e.printStackTrace();
+            }
         }
         System.out.println("Sorgu bitti!");
         return studentList;
     }
 
-
-    private static class Student {
+    public static class Student {
         private int id;
         private String name;
         private String surname;
