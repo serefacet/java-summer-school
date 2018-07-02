@@ -6,8 +6,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6c040dc0-b62a-4867-ac2f-8f1db30d7c24" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/obss/jdbc/JdbcTryWithResources.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/obss/initializer/InitializationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/obss/initializer/InitializationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/obss/generics/review/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/obss/generics/review/IIzinGunuHesaplama.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/obss/generics/review/IMaasHesaplama.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/obss/generics/review/MaasHesaplama.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/obss/generics/review/TeacherTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/obss/generics/review/generic/GenericMaasHesaplama.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/obss/generics/review/generic/IGenericHesaplama.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/obss/generics/review/generic/IzinGunuHesaplama.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaSummerSchool/com/obss/exception/hr/operations/DbOperations.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaSummerSchool/com/obss/exception/hr/operations/DbOperations.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaSummerSchool/com/obss/exception/hr/scenario/HrScenario.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaSummerSchool/com/obss/exception/hr/scenario/HrScenario.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaSummerSchool/com/obss/initializer/InitializationTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaSummerSchool/com/obss/initializer/InitializationTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaSummerSchool/com/obss/jdbc/JdbcReadTest$Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaSummerSchool/com/obss/jdbc/JdbcReadTest$Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaSummerSchool/com/obss/jdbc/JdbcReadTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaSummerSchool/com/obss/jdbc/JdbcReadTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/obss/jdbc/JdbcReadTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/obss/jdbc/JdbcReadTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -34,64 +46,99 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="InitializationTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/obss/initializer/InitializationTest.java">
+      <file leaf-file-name="IGenericHesaplama.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/obss/generics/review/generic/IGenericHesaplama.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-25">
-              <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+            <state relative-caret-position="60">
+              <caret line="4" column="18" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GenericMaasHesaplama.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/obss/generics/review/generic/GenericMaasHesaplama.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IIzinGunuHesaplama.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/obss/generics/review/IIzinGunuHesaplama.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="20" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Employee.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/obss/generics/review/Employee.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="404">
+              <caret line="34" column="5" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#278#279#0" expanded="true" />
-                <element signature="e#335#336#0" expanded="true" />
+                <element signature="e#409#410#0" expanded="true" />
+                <element signature="e#444#445#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="JdbcReadTest.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/obss/jdbc/JdbcReadTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="394">
-              <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="OutputStream.java" pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.jdk/Contents/Home/lib/src.zip!/java.base/java/io/OutputStream.java">
+      <file leaf-file-name="ArrayList.java" pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.jdk/Contents/Home/lib/src.zip!/java.base/java/util/ArrayList.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="138">
-              <caret line="47" column="53" selection-start-line="47" selection-start-column="53" selection-end-line="47" selection-end-column="53" />
+              <caret line="107" column="24" selection-start-line="107" selection-start-column="23" selection-end-line="107" selection-end-column="24" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Closeable.java" pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.jdk/Contents/Home/lib/src.zip!/java.base/java/io/Closeable.java">
+      <file leaf-file-name="Set.java" pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.jdk/Contents/Home/lib/src.zip!/java.base/java/util/Set.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="138">
-              <caret line="36" column="17" selection-start-line="36" selection-start-column="17" selection-end-line="36" selection-end-column="17" />
+              <caret line="112" column="22" selection-start-line="112" selection-start-column="21" selection-end-line="112" selection-end-column="22" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="EnumTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/obss/enumeration/EnumTest.java">
+      <file leaf-file-name="Collections.java" pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.jdk/Contents/Home/lib/src.zip!/java.base/java/util/Collections.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="105">
-              <caret line="7" column="14" lean-forward="true" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+              <caret line="140" column="18" lean-forward="true" selection-start-line="140" selection-start-column="18" selection-end-line="140" selection-end-column="51" />
+              <folding>
+                <element signature="e#5648#5649#0" expanded="true" />
+                <element signature="e#5679#5680#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Day.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/obss/enumeration/Day.java">
+      <file leaf-file-name="TeacherTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/obss/generics/review/TeacherTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="19" column="12" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
+            <state relative-caret-position="143">
+              <caret line="11" column="39" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#678#679#0" expanded="true" />
+                <element signature="e#724#725#0" expanded="true" />
+                <element signature="e#833#834#0" expanded="true" />
+                <element signature="e#884#885#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Files.java" pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.jdk/Contents/Home/lib/src.zip!/java.base/java/nio/file/Files.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="24">
+              <caret line="362" column="7" selection-start-line="362" selection-start-column="5" selection-end-line="362" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -108,7 +155,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>scan</find>
       <find>Government</find>
       <find>expo</find>
       <find>private class</find>
@@ -138,6 +184,7 @@
       <find>native</find>
       <find>register</find>
       <find>getTime</find>
+      <find>?</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -157,18 +204,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/obss/generics/CounterUtils.java" />
-        <option value="$PROJECT_DIR$/src/com/obss/generics/wildcard/TL.java" />
-        <option value="$PROJECT_DIR$/src/com/obss/generics/wildcard/EUR.java" />
-        <option value="$PROJECT_DIR$/src/com/obss/generics/wildcard/Currency.java" />
-        <option value="$PROJECT_DIR$/src/com/obss/generics/wildcard/AccountTransactions.java" />
-        <option value="$PROJECT_DIR$/src/com/obss/interface_test/IWalkingAnimal.java" />
-        <option value="$PROJECT_DIR$/src/com/obss/interface_test/IWarmBloodedAnimal.java" />
-        <option value="$PROJECT_DIR$/src/com/obss/java_bean/PhysicsLesson.java" />
-        <option value="$PROJECT_DIR$/src/com/obss/observer/MouseListenerAdapter.java" />
-        <option value="$PROJECT_DIR$/src/com/obss/observer/MouseEventObject.java" />
-        <option value="$PROJECT_DIR$/src/com/obss/observer/ButtonClickEvent.java" />
-        <option value="$PROJECT_DIR$/src/com/obss/observer/MouseClickEvent.java" />
         <option value="$PROJECT_DIR$/src/com/obss/observer/MouseListener.java" />
         <option value="$PROJECT_DIR$/src/com/obss/observer/Button.java" />
         <option value="$PROJECT_DIR$/src/com/obss/observer/PhoneMouseListener.java" />
@@ -208,6 +243,18 @@
         <option value="$PROJECT_DIR$/src/com/obss/initializer/InitializationTest.java" />
         <option value="$PROJECT_DIR$/src/com/obss/jdbc/JdbcTryWithResources.java" />
         <option value="$PROJECT_DIR$/src/com/obss/jdbc/JdbcReadTest.java" />
+        <option value="$PROJECT_DIR$/src/com/obss/generics/review/IGenericHesaplama.java" />
+        <option value="$PROJECT_DIR$/src/com/obss/generics/review/GenericMaasHesaplama.java" />
+        <option value="$PROJECT_DIR$/src/com/obss/generics/review/IzinGunuHesaplama.java" />
+        <option value="$PROJECT_DIR$/src/com/obss/generics/review/generic/IGenericHesaplama.java" />
+        <option value="$PROJECT_DIR$/src/com/obss/generics/review/IHesaplama.java" />
+        <option value="$PROJECT_DIR$/src/com/obss/generics/review/IMaasHesaplama.java" />
+        <option value="$PROJECT_DIR$/src/com/obss/generics/review/IIzinGunuHesaplama.java" />
+        <option value="$PROJECT_DIR$/src/com/obss/generics/review/MaasHesaplama.java" />
+        <option value="$PROJECT_DIR$/src/com/obss/generics/review/Employee.java" />
+        <option value="$PROJECT_DIR$/src/com/obss/generics/review/generic/GenericEmployee.java" />
+        <option value="$PROJECT_DIR$/src/com/obss/generics/review/generic/TeacherTest.java" />
+        <option value="$PROJECT_DIR$/src/com/obss/generics/review/TeacherTest.java" />
       </list>
     </option>
   </component>
@@ -263,6 +310,38 @@
               <item name="JavaSummerSchool" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="obss" type="462c0819:PsiDirectoryNode" />
+              <item name="generics" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaSummerSchool" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaSummerSchool" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="obss" type="462c0819:PsiDirectoryNode" />
+              <item name="generics" type="462c0819:PsiDirectoryNode" />
+              <item name="review" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaSummerSchool" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaSummerSchool" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="obss" type="462c0819:PsiDirectoryNode" />
+              <item name="generics" type="462c0819:PsiDirectoryNode" />
+              <item name="review" type="462c0819:PsiDirectoryNode" />
+              <item name="generic" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaSummerSchool" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaSummerSchool" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="obss" type="462c0819:PsiDirectoryNode" />
+              <item name="generics" type="462c0819:PsiDirectoryNode" />
+              <item name="wildcard" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaSummerSchool" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaSummerSchool" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="obss" type="462c0819:PsiDirectoryNode" />
               <item name="initializer" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -310,7 +389,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.InitializationTest">
+  <component name="RunManager" selected="Application.TeacherTest">
     <configuration name="CheckedExceptionTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.obss.exception.CheckedExceptionTest" />
       <module name="JavaSummerSchool" />
@@ -345,17 +424,6 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="JdbcReadTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.obss.jdbc.JdbcReadTest" />
-      <module name="JavaSummerSchool" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.obss.jdbc.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
     <configuration name="SalaryScenario" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.obss.exception.hr.operations.SalaryScenario" />
       <module name="JavaSummerSchool" />
@@ -364,6 +432,17 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.obss.exception.hr.operations.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="TeacherTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.obss.generics.review.TeacherTest" />
+      <module name="JavaSummerSchool" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.obss.generics.review.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -410,19 +489,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.JdbcReadTest" />
       <item itemvalue="Application.CheckedExceptionTest" />
       <item itemvalue="Application.HrScenario" />
       <item itemvalue="Application.SalaryScenario" />
       <item itemvalue="Application.InitializationTest" />
+      <item itemvalue="Application.TeacherTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TeacherTest" />
         <item itemvalue="Application.InitializationTest" />
         <item itemvalue="Application.SalaryScenario" />
         <item itemvalue="Application.HrScenario" />
         <item itemvalue="Application.CheckedExceptionTest" />
-        <item itemvalue="Application.JdbcReadTest" />
       </list>
     </recent_temporary>
   </component>
@@ -444,12 +523,12 @@
       <workItem from="1530080674661" duration="17098000" />
       <workItem from="1530166710960" duration="16421000" />
       <workItem from="1530254484736" duration="12425000" />
-      <workItem from="1530512016087" duration="9584000" />
+      <workItem from="1530512016087" duration="13139000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="81780000" />
+    <option name="totallyTimeSpent" value="85335000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -461,7 +540,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="800" height="537" extended-state="6" />
+    <frame x="0" y="24" width="800" height="537" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="6" />
@@ -473,7 +552,7 @@
       <window_info anchor="bottom" id="Event Log" order="4" sideWeight="0.5039578" side_tool="true" weight="0.4340909" />
       <window_info anchor="right" id="Maven Projects" order="5" />
       <window_info anchor="bottom" id="Database Changes" order="0" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49604222" weight="0.4340909" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49604222" weight="0.48863637" />
       <window_info anchor="bottom" id="Version Control" order="5" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.3272727" />
       <window_info id="Capture Tool" order="5" />
@@ -498,7 +577,7 @@
       <window_info anchor="right" id="Palette" order="6" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
       <window_info anchor="right" id="Capture Analysis" order="0" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49604222" weight="0.4340909" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49604222" visible="true" weight="0.48863637" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="9" />
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49433962" visible="true" weight="0.3298153" />
@@ -587,7 +666,7 @@
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
-      <option name="time" value="39" />
+      <option name="time" value="40" />
     </breakpoint-manager>
   </component>
   <component name="debuggerHistoryManager">
@@ -600,132 +679,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/obss/jdbc/StaticInitializerBlock.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="11" selection-start-column="11" selection-end-column="11" />
-          <folding>
-            <element signature="e#267#268#0" expanded="true" />
-            <element signature="e#331#332#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/ReflectiveOperationException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="34" column="13" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.jdk/Contents/Home/lib/src.zip!/java.sql/java/sql/Statement.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="46" column="57" selection-start-line="46" selection-start-column="44" selection-end-line="46" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.jdk/Contents/Home/lib/src.zip!/java.sql/java/sql/PreparedStatement.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="8">
-          <caret line="61" column="46" selection-start-line="61" selection-start-column="46" selection-end-line="61" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.jdk/Contents/Home/lib/src.zip!/java.sql/java/sql/ResultSet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="176" column="12" selection-start-line="176" selection-start-column="12" selection-end-line="176" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/obss/jdbc/JdbcWriteTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.jdk/Contents/Home/lib/src.zip!/java.base/java/io/IOException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="131">
-          <caret line="38" column="6" selection-start-line="38" selection-start-column="6" selection-end-line="38" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/Throwable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="253" column="20" selection-start-line="253" selection-start-column="11" selection-end-line="253" selection-end-column="20" />
-          <folding>
-            <element signature="e#10351#10352#0" expanded="true" />
-            <element signature="e#10385#10386#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/Exception.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="44" column="13" selection-start-line="44" selection-start-column="13" selection-end-line="44" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/RuntimeException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-562">
-          <caret line="42" column="13" selection-start-line="42" selection-start-column="13" selection-end-line="42" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/obss/exception/UncheckedException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="21" lean-forward="true" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
-          <folding>
-            <element signature="e#136#137#0" expanded="true" />
-            <element signature="e#164#165#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/obss/exception/ExceptionThrower.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="229">
-          <caret line="20" column="47" selection-start-line="20" selection-start-column="47" selection-end-line="20" selection-end-column="47" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/obss/exception/CheckedExceptionTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="94">
-          <caret line="20" column="42" lean-forward="true" selection-start-line="20" selection-start-column="42" selection-end-line="20" selection-end-column="42" />
-          <folding>
-            <element signature="e#109#110#0" expanded="true" />
-            <element signature="e#139#140#0" expanded="true" />
-            <element signature="e#935#936#0" expanded="true" />
-            <element signature="e#980#981#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/obss/exception/CheckedException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="47" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/obss/exception/hr/operations/operations.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.jdk/Contents/Home/lib/src.zip!/java.logging/java/util/logging/Logger.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="25">
@@ -946,13 +899,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.jdk/Contents/Home/lib/src.zip!/java.base/java/util/Collections.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="155">
-          <caret line="82" column="23" selection-start-line="82" selection-start-column="12" selection-end-line="82" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/obss/enumeration/EnumTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -964,13 +910,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="19" column="12" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.jdk/Contents/Home/lib/src.zip!/java.base/java/util/List.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="111">
-          <caret line="264" column="12" selection-start-line="264" selection-start-column="12" selection-end-line="264" selection-end-column="12" />
         </state>
       </provider>
     </entry>
@@ -1038,12 +977,147 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/obss/generics/review/IHesaplama.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/obss/jdbc/JdbcReadTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="394">
-          <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
+        <state relative-caret-position="109">
+          <caret line="22" column="64" selection-start-line="22" selection-start-column="64" selection-end-line="22" selection-end-column="64" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/obss/generics/review/MaasHesaplama.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="9" lean-forward="true" selection-start-column="9" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/Executors.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1647">
+          <caret line="72" column="13" selection-start-line="72" selection-start-column="13" selection-end-line="72" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/Integer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="58" column="41" selection-start-line="58" selection-start-column="35" selection-end-line="58" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/obss/generics/review/IMaasHesaplama.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="3" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/obss/generics/review/generic/IzinGunuHesaplama.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/obss/generics/review/generic/GenericMaasHesaplama.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/obss/generics/review/generic/IGenericHesaplama.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="18" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.jdk/Contents/Home/lib/src.zip!/java.base/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4671">
+          <caret line="503" column="17" selection-start-line="503" selection-start-column="17" selection-end-line="503" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/obss/generics/review/IIzinGunuHesaplama.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="20" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.jdk/Contents/Home/lib/src.zip!/java.base/java/util/Set.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="112" column="22" selection-start-line="112" selection-start-column="21" selection-end-line="112" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.jdk/Contents/Home/lib/src.zip!/java.base/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="107" column="24" selection-start-line="107" selection-start-column="23" selection-end-line="107" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.jdk/Contents/Home/lib/src.zip!/java.base/java/util/Collections.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="140" column="18" lean-forward="true" selection-start-line="140" selection-start-column="18" selection-end-line="140" selection-end-column="51" />
+          <folding>
+            <element signature="e#5648#5649#0" expanded="true" />
+            <element signature="e#5679#5680#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.jdk/Contents/Home/lib/src.zip!/java.base/java/nio/file/Files.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="362" column="7" selection-start-line="362" selection-start-column="5" selection-end-line="362" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/obss/generics/review/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="404">
+          <caret line="34" column="5" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#409#410#0" expanded="true" />
+            <element signature="e#444#445#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/obss/generics/review/generic/Teacher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/obss/generics/review/TeacherTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="11" column="39" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#678#679#0" expanded="true" />
+            <element signature="e#724#725#0" expanded="true" />
+            <element signature="e#833#834#0" expanded="true" />
+            <element signature="e#884#885#0" expanded="true" />
           </folding>
         </state>
       </provider>

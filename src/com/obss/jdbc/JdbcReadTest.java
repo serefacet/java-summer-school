@@ -19,6 +19,7 @@ public class JdbcReadTest {
 
     }
 
+
     public static List<Student> getStudentsFromDB(String name) {
         List<Student> studentList = new ArrayList<>();
         Connection connection = null;
