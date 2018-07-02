@@ -13,7 +13,7 @@ public enum Day {
     private String mood;
     private int temperature;
 
-    private Day(String mood) {
+    Day(String mood) {
         this.mood = mood;
     }
 

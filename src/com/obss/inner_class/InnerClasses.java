@@ -6,6 +6,7 @@ public class InnerClasses {
 
     public static void main(String[] args) {
         Comparable<Araba> comparable = new ConcreteComparable();
+
     }
 
     public void nonStaticMethod() {
@@ -13,6 +14,7 @@ public class InnerClasses {
     }
 
     public static class ConcreteComparable implements Comparable<Araba> {
+
 
         @Override
         public int compareTo(Araba o) {
@@ -47,13 +49,9 @@ public class InnerClasses {
             public void run() {
             }
         }
-
-
         Runnable thread2 = () -> {
             System.out.println("deneme");
         };
-
-
 
     }
 
